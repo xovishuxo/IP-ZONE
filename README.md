@@ -11,12 +11,6 @@
 * storage 400 MB
 * python
 
-## FEATURES :
-* [+] Real live location !
-* [+] Updated maintainence !
-* [+] Ip lookup
-* [+] Easy for Beginners !
-
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
