@@ -25,7 +25,7 @@ print (red+"""
 ██║██╔═══╝     ???     oo       oo   nn  nn nn  eeeeeeee
 ██║██║        ???       oo     oo    nn   nnnn  ee
 ╚═╝╚═╝       ?????????    ooooo      nn     nn  eeeeeeee
-                                                      v 1.0
+                                                      
 """+red)
 print (lgreen+bold+"         <===[[ coded by vishvam savaliya ]]===> \n"+clear)
 print (yellow+bold+"   <---(( search on Instagram @cybervishu ))--> \n"+clear)
