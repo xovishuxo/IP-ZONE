@@ -1,3 +1,5 @@
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/cybervishu)
+
 ## AVAILABLE ON :
 
 * Termux
